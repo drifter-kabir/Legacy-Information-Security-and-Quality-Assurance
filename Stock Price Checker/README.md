@@ -1,1 +1,1 @@
-# [Stock Price Checker](https://freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
+Click [here](https://boilerplate-project-stockchecker-1.miltonkabir.repl.co/) to see it live!
